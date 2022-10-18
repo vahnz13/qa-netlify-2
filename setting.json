@@ -25,6 +25,11 @@
         ".js-dismissable-hero",
         ".lazy-loading"
       ],
+	  "target":"riddles.net",
+      "element-remove-selector":[
+        ".ezoic-ad",
+        ".adbox-template"
+      ],
       "target":"www.math-only-math.com",
       "element-remove-selector":[
         "#Header",
